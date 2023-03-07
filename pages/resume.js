@@ -12,6 +12,7 @@ export default function FirstPost() {
         </Head>
         <h1>Education</h1>
         <h3>University of California - Berkeley</h3>
+        <h3>BA in Computer Science</h3>
         <h1>Work Experience</h1>
         <h3>Online Developer - The Daily Cal</h3>
         <h3>Dealer - Super Top Secret Startup</h3>
