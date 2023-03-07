@@ -17,7 +17,7 @@ export default function FirstPost() {
         <h3>Dealer - Super Top Secret Startup</h3>
         <h3>USG Crisis - UCBMUN</h3>
         <h3>Director of Technology Intern - UCBMUN</h3>
-        <h3>Developer - Blossom's Farms</h3>
+        <h3>Software Engineer Intern - Blossom's Farms</h3>
         <h3>Developer - Dew Study</h3>
         <h3>Developer - Lutis</h3>
       </Layout>
