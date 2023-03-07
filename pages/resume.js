@@ -15,7 +15,7 @@ export default function FirstPost() {
         <h3>BA in Computer Science (2025)</h3>
         <h1>Work Experience</h1>
         <h3>Online Developer - The Daily Cal</h3>
-        <h3>Dealer - Super Top Secret Startup in Oakland, CA<sup>tm</sup></h3>
+        <h3>Dealer - Super Top Secret Startup<sup>tm</sup> in Oakland, CA</h3>
         <h3>USG Crisis - UCBMUN</h3>
         <h3>Director of Technology Intern - UCBMUN</h3>
         <h3>Software Engineer Intern - Blossom's Farms</h3>
